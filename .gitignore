@@ -1,0 +1,14 @@
+# Visual Studio build outputs
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+
+# Build results
+*.exe
+*.dll
+
+# VS Code
+.vscode/
